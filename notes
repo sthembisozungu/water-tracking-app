@@ -1,0 +1,12 @@
+
+# 1. Create a new React + TypeScript project using Vite
+npm create vite@latest aquadaily -- --template react-ts
+
+# 2. Navigate into the folder
+cd aquadaily
+
+# 3. Install the standard dependencies
+npm install
+
+# 4. Install the specific libraries used in this app
+npm install react-router-dom lucide-react recharts @google/genai
